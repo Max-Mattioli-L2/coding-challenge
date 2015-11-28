@@ -9,4 +9,7 @@ Finally, note that .csv files with 'pdata' include percent recommended data whil
 
 cheers
 
-[https://cloud.githubusercontent.com/assets/15976155/11453930/2f738880-95eb-11e5-9d32-4488484d4989.png]
+![](https://cloud.githubusercontent.com/assets/15976155/11453930/2f738880-95eb-11e5-9d32-4488484d4989.png)
+![](https://cloud.githubusercontent.com/assets/15976155/11453931/2f74c2f4-95eb-11e5-92b3-2c2c157801ae.png)
+![](https://cloud.githubusercontent.com/assets/15976155/11453932/2f765e34-95eb-11e5-8945-ea597ea4a88f.png)
+![](https://cloud.githubusercontent.com/assets/15976155/11453933/2f7b3788-95eb-11e5-99c3-6bf72016e1dd.png)
